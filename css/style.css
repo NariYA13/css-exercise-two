@@ -3,10 +3,19 @@ body {
   color: #000000;
   font-size: 16px;
 }
+
 a {
   text-decoration: none;
 }
+
+p {
+  padding-bottom: 10px;
+}
+
 a:link  { color: #ffffff; }
+a:visited {color: #94A5C2; }
+a:hover { color: #C9C9C9; }
+a:active { color: #83B2FF }
 
 nav {
   background-color: #2b2d2f;
@@ -51,7 +60,7 @@ li {
 
 article {
   padding-top: 100px;
-  line-height: 1.5
+  line-height: 1.8
 }
 
 .container {
