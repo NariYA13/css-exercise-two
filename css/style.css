@@ -9,12 +9,30 @@ a {
 }
 
 p {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+}
+
+figcaption {
+  font-size: 14px;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.author {
+  font-style: italic;
 }
 
 a:link  { color: #ffffff; }
 a:visited {color: #94A5C2; }
-a:hover { color: #C9C9C9; }
+a:hover { color: #ffff00; }
 a:active { color: #83B2FF }
 
 nav {
