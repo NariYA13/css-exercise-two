@@ -30,14 +30,8 @@ h3 {
   font-style: italic;
 }
 
-a:link  { color: #ffffff; }
-a:visited {color: #94A5C2; }
-a:hover { color: #ffff00; }
-a:active { color: #83B2FF }
-
 nav {
   background-color: #2b2d2f;
-  float: left;
   position: fixed;
   width: 100%;
 }
@@ -85,3 +79,8 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+a:link  { color: #ffffff; }
+a:visited {color: #94A5C2; }
+a:hover { color: #ffff00; }
+a:active { color: #83B2FF }
